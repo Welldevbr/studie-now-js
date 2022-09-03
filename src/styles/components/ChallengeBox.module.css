@@ -72,14 +72,16 @@
 }
 
 .challengeActive main strong {
-  font-size: 2rem;
+  font-size: 1.8rem;
   font-weight: 600;
   color: var(--title);
   margin: 1.5rem 0 1rem;
 }
 
 .challengeActive main p {
-  line-height: 1.5;
+  line-height: 1.4;
+  font-size: 1.4rem;
+
 }
 
 .challengeActive main img {

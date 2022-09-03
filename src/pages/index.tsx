@@ -9,6 +9,7 @@ import Head from "../../node_modules/next/head";
 
 import styles from "../styles/pages/Home.module.css";
 import { ChallengeBox } from "../components/ChallengeBox";
+import { CountdownProvider } from "../contexts/CountdownContext";
 
 export default function Home() {
   return (
@@ -19,18 +20,21 @@ export default function Home() {
 
       <ExperienceBar />
 
-      <section>
-        <div>
-          <Profile />
+      <CountdownProvider>
+        <section>
+          <div>
+            <Profile />
 
-          <CompleteChallenges />
+            <CompleteChallenges />
 
-          <Countdown />
-        </div>
-        <div>
-          <ChallengeBox />
-        </div>
-      </section>
+            <Countdown />
+          </div>
+          <div>
+            <ChallengeBox />
+          </div>
+        </section>
+      </CountdownProvider>
+
     </div>
   )
 }

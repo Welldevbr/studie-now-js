@@ -59,6 +59,9 @@
   font-weight: 600;
 
   transition: background 0.3s;
+
+
+  box-shadow: 0 0 18px rgba(0, 0, 0, 0.1);
 }
 
 .countdownButton:not(:disabled):hover {
@@ -69,7 +72,7 @@
   background: var(--white);
   color: var(--title);
 
-  box-shadow: 0 0 18px rgba(0, 0, 0, 0.1);
+  border-bottom: 4px solid var(--red);
 }
 
 .countdownButtonActive:not(:disabled):hover {
