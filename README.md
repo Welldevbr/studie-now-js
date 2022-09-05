@@ -20,9 +20,9 @@ Projeto desenvolvido duruante o evento NLW#04 - Trilha de React da <a href="http
 # Tecnologias  🚀
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- ![Next.js](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;(https://nextjs.org/)
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)(https://reactjs.org)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)(https://www.typescriptlang.org/)
+- ![Next.js](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next&labelColor=0D1117)&nbsp; 
+- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## 🚀 Getting started
 
