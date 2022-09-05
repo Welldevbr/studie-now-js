@@ -20,7 +20,7 @@ Projeto desenvolvido duruante o evento NLW#04 - Trilha de React da <a href="http
 # Tecnologias  🚀
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- ![Next.js](https://img.shields.io/badge/Next-0D1117?style=for-the-badge&logo=next&labelColor=0D1117)&nbsp; 
+- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -46,13 +46,13 @@ $ yarn dev
 
 You can view the project layout through the links below:
 
-- ![Layout Web](https://www.figma.com/file/yYMjbKN7bOUKhrblOHAr06/inspiration?node-id=160%3A2761) 
+- [Layout Web](https://www.figma.com/file/yYMjbKN7bOUKhrblOHAr06/inspiration?node-id=160%3A2761) 
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 ## 🔥 Preview
 
-- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
  
 - https://studienow.vercel.app/
 
