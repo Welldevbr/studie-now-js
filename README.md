@@ -52,7 +52,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ## 🔥 Preview
 
-[![Deploy with Vercel](https://studienow.vercel.app/)
+- [![Deploy with Vercel](https://studienow-6jl95c83b-welldevbr.vercel.app/)
 
 ## 📝 License
 
