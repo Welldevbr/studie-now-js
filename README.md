@@ -52,7 +52,8 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ## 🔥 Preview
 
-- [![Deploy with Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- [Deploy with Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+ 
 - https://studienow.vercel.app/
 
 
