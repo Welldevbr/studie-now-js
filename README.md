@@ -20,9 +20,9 @@ Projeto desenvolvido duruante o evento NLW#04 - Trilha de React da <a href="http
 # Tecnologias  🚀
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [Next.js](https://nextjs.org/)
-- [React](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
+- ![Next.js](https://nextjs.org/)
+- ![React](https://reactjs.org)
+- ![TypeScript](https://www.typescriptlang.org/)
 
 ## 🚀 Getting started
 
@@ -46,13 +46,13 @@ $ yarn dev
 
 You can view the project layout through the links below:
 
-- [Layout Web](https://www.figma.com/file/yYMjbKN7bOUKhrblOHAr06/inspiration?node-id=160%3A2761) 
+- ![Layout Web](https://www.figma.com/file/yYMjbKN7bOUKhrblOHAr06/inspiration?node-id=160%3A2761) 
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
 ## 🔥 Preview
 
-- [Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+- ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
  
 - https://studienow.vercel.app/
 
