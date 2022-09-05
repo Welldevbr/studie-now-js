@@ -46,7 +46,7 @@ $ yarn dev
 
 You can view the project layout through the links below:
 
-- [Layout Web](https://www.figma.com/file/yYMjbKN7bOUKhrblOHAr06/inspiration?node-id=160%3A2761) 
+- [Layout Web](https://www.figma.com/file/iKtFIq9bjvhpfp91ut8tfK/Move.it-2.0-(Copy)?node-id=160%3A2761) 
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
