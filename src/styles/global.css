@@ -7,7 +7,9 @@
   --text-highlight: hsl(235, 100%, 85%);
   --title: hsl(221, 25%, 24%);
   --red: hsl(350, 79%, 58%);
+  --red-light: hsl(0, 100%, 98%);
   --green: hsl(142, 66%, 51%);
+  --green-light: hsl(108, 100%, 98%);
   --blue: #5965E0;
   --blue-dark: hsl(243, 47%, 49%);
   --blue-twitter: hsl(198, 75%, 52%);
