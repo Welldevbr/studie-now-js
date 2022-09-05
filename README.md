@@ -1,6 +1,6 @@
 # Studie - Now
 <h1>
-  projeto totalmente inspirado em uma aplicação criada na imersão  NLW#4 com React da ROCKETSEAT, 
+  Projeto totalmente inspirado em uma aplicação criada na imersão  NLW#4 com React da ROCKETSEAT, 
   denominada de Move - It                                                                            
 </h1>
 
