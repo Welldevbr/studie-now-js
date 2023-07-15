@@ -52,8 +52,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ## 🔥 Preview
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-- https://studienow.vercel.app/
+[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://studienow.vercel.app/)
 
 
 ## 📝 License
